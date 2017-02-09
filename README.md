@@ -22,9 +22,11 @@ Unzip 'conf.zip' to 'autotest'
 
 *Note*: You must put 'autotest-1.0.jar' and 'conf' in the same directory.
 
-You should write your test cases in directory 'conf' with reference to the demo and the document ‘AutomationTest.doc’
+You should write your test cases in directory 'conf' with reference to the demo and the document ‘AutomationTest.doc’.
 
 After that, run this runnable JAR 'autotest-1.0.jar', double click it to run the cases.
+
+Directory tree:
 
 autotest
 ├── autotest-1.0.jar
@@ -43,5 +45,5 @@ autotest
         ├── case_http_post.json
         └── case_http_put.json
 
-You can see the document ‘AutomationTest.doc’ to know more about the automation test tool   
+You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.  
 
