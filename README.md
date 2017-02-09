@@ -7,7 +7,7 @@ Author	:  Yu Dong Wang (Dom Wang)
 
 Version	:  1.0
 
-Date	:  Feb 08, 2017
+Date	:  Feb 8, 2017
 
 Email	:  wangyudongwyd@126.com
 
