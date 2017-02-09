@@ -11,10 +11,8 @@ Date	:  Feb 8, 2017
 
 Email	:  wangyudongwyd@126.com
 
-
-You can see the document ‘AutomationTest.doc’ to know more about the automation test tool   
-
-Steps:
+---------------------------------------------------------------------------------------------------------------------
+Operation steps:
 
 You should first make a directory with name 'autotest'.
 
@@ -44,4 +42,6 @@ autotest
         ├── case_http_get.json
         ├── case_http_post.json
         └── case_http_put.json
+
+You can see the document ‘AutomationTest.doc’ to know more about the automation test tool   
 
