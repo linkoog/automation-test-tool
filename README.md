@@ -20,7 +20,7 @@ Copy file 'autotest-1.0.jar' and 'conf.zip' to 'autotest'
 
 Unzip 'conf.zip' to 'autotest'
 
-*Note*: You must put 'autotest-1.0.jar' and 'conf' in the same directory.
+*Note*: You must put 'autotest-1.0.jar' and 'conf' together in the same directory.
 
 You should write your test cases in directory 'conf' with reference to the demo and the document ‘AutomationTest.doc’.
 
