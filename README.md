@@ -16,7 +16,7 @@ Operation steps:
 
 You should first make a directory with name 'autotest'.
 
-Copy file 'autotest-1.0.jar' and directory 'conf.zip' to 'autotest'
+Copy file 'autotest-1.0.jar' and 'conf.zip' to 'autotest'
 
 Unzip 'conf.zip' to 'autotest'
 
