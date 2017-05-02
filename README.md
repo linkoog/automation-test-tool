@@ -5,45 +5,64 @@ Automation Test Tool for RESTful API
 
 Author	:  Yu Dong Wang (Dom Wang)
 
-Version	:  1.0
+Version	:  1.1
 
-Date	:  Feb 8, 2017
+Date	:  May 3, 2017
 
 Email	:  wangyudongwyd@126.com
 
 ---------------------------------------------------------------------------------------------------------------------
 Operation steps:
 
-You should first make a directory with name 'autotest'.
+Unzip 'autotest-1.1.zip' will get 'autotest-1.1.jar' and the directory 'work'.
 
-Copy file 'autotest-1.0.jar' and 'conf.zip' to 'autotest'
+*Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
 
-Unzip 'conf.zip' to 'autotest'
+You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
-*Note*: You must put 'autotest-1.0.jar' and 'conf' together in the same directory.
-
-You should write your test cases in directory 'conf' with reference to the demo and the document ‘AutomationTest.doc’.
-
-After that, run this runnable JAR 'autotest-1.0.jar', double click it to run the cases.
+After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
 
 Directory tree:
 
-autotest
-├── autotest-1.0.jar
-└── conf
-    ├── assertions
-    │   ├── assert_case_http_get.json
-    │   ├── assert_case_http_post.json
-    │   └── assert_case_http_put.json
+autotest-1.1
+├── autotest-1.1.jar
+└── work
+    ├── AT_Http_Config.json
     ├── AT_Tasks.json
-    ├── body
-    │   ├── body_case_http_post.json
-    │   └── body_case_http_put.json
     └── cases
-        ├── case_http_delete.json
-        ├── case_http_get.json
-        ├── case_http_post.json
-        └── case_http_put.json
+        ├── assertion
+        │   ├── assert_case_get_github_feeds.json
+        │   ├── assert_case_user_add.json
+        │   └── assert_case_user_get.json
+        ├── body
+        │   ├── body_case_user_add.json
+        │   └── body_case_user_update.json
+        ├── case_get_github_feeds.json
+        ├── case_user_add.json
+        ├── case_user_delete.json
+        ├── case_user_get.json
+        └── case_user_update.json
 
-You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.  
+You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
+
+---------------------------------------------------------------------------------------------------------------------
+Here list the steps of the demo:
+
+1. Unzip 'autotest-1.1.zip';
+
+
+2. Stop tomcat service; 
+
+3. Copy 'RestServer-1.0.war' to tomcat directory 'webapps/';
+
+4. Start tomcat service;
+
+5. If your port number of tomcat is not 8080, please change to the real port number in directory 'work/cases/', related files:
+case_user_add.json
+case_user_delete.json
+case_user_get.json
+case_user_update.json
+
+5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
+  
 
