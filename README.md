@@ -36,7 +36,7 @@ Operation steps:
 
 1. Unzip 'autotest-1.1.zip' you can get 'autotest-1.1.jar' and the directory 'work'.
 
-  *Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
+   *Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
 
 2. You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
