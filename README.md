@@ -1,4 +1,4 @@
-# automation-test-tool
+# About the Automation Test Tool
 
 Automation Test Tool for RESTful API
 
