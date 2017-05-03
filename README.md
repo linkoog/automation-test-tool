@@ -41,27 +41,11 @@ The usages of Automation Test Tool:
 2. You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
 3. After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
-
-   Directory tree:
-
-    autotest-1.1
-    ├── autotest-1.1.jar
-    └── work
-        ├── AT_Http_Config.json
-        ├── AT_Tasks.json
-        └── cases
-            ├── assertion
-            │   ├── assert_case_get_github_feeds.json
-            │   ├── assert_case_user_add.json
-            │   └── assert_case_user_get.json
-            ├── body
-            │   ├── body_case_user_add.json
-            │   └── body_case_user_update.json
-            ├── case_get_github_feeds.json
-            ├── case_user_add.json
-            ├── case_user_delete.json
-            ├── case_user_get.json
-            └── case_user_update.json
-
    You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
+   
+   Directory tree: 
+
+![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
+
+   
 
