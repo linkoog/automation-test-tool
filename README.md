@@ -12,15 +12,35 @@ Date	:  May 3, 2017
 Email	:  wangyudongwyd@126.com
 
 ---------------------------------------------------------------------------------------------------------------------
+Here list the steps of the demo:
+
+1. Unzip 'autotest-1.1.zip';
+
+
+2. Stop tomcat service; 
+
+3. Copy 'RestServer-1.0.war' to tomcat directory 'webapps/';
+
+4. Start tomcat service;
+
+5. If your port number of tomcat is not 8080, please change to the real port number in directory 'work/cases/', related files:
+case_user_add.json
+case_user_delete.json
+case_user_get.json
+case_user_update.json
+
+5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
+
+---------------------------------------------------------------------------------------------------------------------
 Operation steps:
 
-Unzip 'autotest-1.1.zip' will get 'autotest-1.1.jar' and the directory 'work'.
+1. Unzip 'autotest-1.1.zip' you can get 'autotest-1.1.jar' and the directory 'work'.
 
 *Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
 
-You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
+2. You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
-After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
+3. After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
 
 Directory tree:
 
@@ -44,25 +64,4 @@ autotest-1.1
         └── case_user_update.json
 
 You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
-
----------------------------------------------------------------------------------------------------------------------
-Here list the steps of the demo:
-
-1. Unzip 'autotest-1.1.zip';
-
-
-2. Stop tomcat service; 
-
-3. Copy 'RestServer-1.0.war' to tomcat directory 'webapps/';
-
-4. Start tomcat service;
-
-5. If your port number of tomcat is not 8080, please change to the real port number in directory 'work/cases/', related files:
-case_user_add.json
-case_user_delete.json
-case_user_get.json
-case_user_update.json
-
-5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
-  
 
