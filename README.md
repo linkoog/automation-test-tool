@@ -16,7 +16,7 @@ Email	:  wangyudongwyd@126.com
 ![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_3.png)
 
 ---------------------------------------------------------------------------------------------------------------------
-# Here list the steps of the demo:
+# Here list the steps of the demo
 
 1. Unzip 'autotest-1.1.zip';
 
@@ -36,7 +36,7 @@ case_user_update.json.
 5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
 
 ---------------------------------------------------------------------------------------------------------------------
-# The usages of Automation Test Tool:
+# The usages of Automation Test Tool
 
 1. Unzip 'autotest-1.1.zip' you can get 'autotest-1.1.jar' and the directory 'work'.
 
