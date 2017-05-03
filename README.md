@@ -47,5 +47,6 @@ The usages of Automation Test Tool:
 
 ![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
 
-   
 
+   Test report：
+![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_3.png)
