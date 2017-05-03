@@ -36,7 +36,7 @@ case_user_update.json.
 5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
 
 ---------------------------------------------------------------------------------------------------------------------
-# The usages of Automation Test Tool
+# The usages of this tool
 
 1. Unzip 'autotest-1.1.zip' you can get 'autotest-1.1.jar' and the directory 'work'.
 
