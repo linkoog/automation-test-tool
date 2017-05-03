@@ -49,6 +49,6 @@ The usages of Automation Test Tool:
    
    Directory tree: 
 
-![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
+   ![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
 
 
