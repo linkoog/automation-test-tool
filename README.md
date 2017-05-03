@@ -12,6 +12,10 @@ Date	:  May 3, 2017
 Email	:  wangyudongwyd@126.com
 
 ---------------------------------------------------------------------------------------------------------------------
+
+![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_3.png)
+
+---------------------------------------------------------------------------------------------------------------------
 Here list the steps of the demo:
 
 1. Unzip 'autotest-1.1.zip';
@@ -47,4 +51,4 @@ The usages of Automation Test Tool:
 
 ![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
 
-![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_3.png)
+
