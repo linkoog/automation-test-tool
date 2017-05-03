@@ -36,32 +36,32 @@ Operation steps:
 
 1. Unzip 'autotest-1.1.zip' you can get 'autotest-1.1.jar' and the directory 'work'.
 
-*Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
+  *Note*: You must keep 'autotest-1.1.jar' and 'work' together in one directory.
 
 2. You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
 3. After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
 
-Directory tree:
+   Directory tree:
 
-autotest-1.1
-├── autotest-1.1.jar
-└── work
-    ├── AT_Http_Config.json
-    ├── AT_Tasks.json
-    └── cases
-        ├── assertion
-        │   ├── assert_case_get_github_feeds.json
-        │   ├── assert_case_user_add.json
-        │   └── assert_case_user_get.json
-        ├── body
-        │   ├── body_case_user_add.json
-        │   └── body_case_user_update.json
-        ├── case_get_github_feeds.json
-        ├── case_user_add.json
-        ├── case_user_delete.json
-        ├── case_user_get.json
-        └── case_user_update.json
+    autotest-1.1
+    ├── autotest-1.1.jar
+    └── work
+        ├── AT_Http_Config.json
+        ├── AT_Tasks.json
+        └── cases
+            ├── assertion
+            │   ├── assert_case_get_github_feeds.json
+            │   ├── assert_case_user_add.json
+            │   └── assert_case_user_get.json
+            ├── body
+            │   ├── body_case_user_add.json
+            │   └── body_case_user_update.json
+            ├── case_get_github_feeds.json
+            ├── case_user_add.json
+            ├── case_user_delete.json
+            ├── case_user_get.json
+            └── case_user_update.json
 
-You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
+   You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
 
