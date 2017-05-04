@@ -27,12 +27,11 @@ Email	:  wangyudongwyd@126.com
 
 4. Start tomcat service;
 
-5. Change the bellow files to your real port number and real host in directory 'work/cases/'
-   related files:
-   case_user_add.json, 
-   case_user_delete.json, 
-   case_user_get.json, 
-   case_user_update.json.
+5. Change these files to your real port number and real host in directory 'work/cases/', related files:
+case_user_add.json, 
+case_user_delete.json, 
+case_user_get.json, 
+case_user_update.json.
 
 5. Double click this runnable JAR 'autotest-1.1.jar', and click button 'run'.
 
