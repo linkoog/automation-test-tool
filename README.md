@@ -27,7 +27,7 @@ Email	:  wangyudongwyd@126.com
 
 4. Start tomcat service;
 
-5. Change these files to your real port number and real host in directory 'work/cases/', related files:
+5. Update these files to your real port number and real host in directory 'work/cases/', related files:
 case_user_add.json, 
 case_user_delete.json, 
 case_user_get.json, 
