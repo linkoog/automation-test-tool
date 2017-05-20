@@ -25,7 +25,8 @@ Email	:  wangyudongwyd@126.com
 
 2. You should write your test cases in directory 'work' with reference to the demo and the document ‘AutomationTest.doc’.
 
-3. After that, run this runnable JAR 'autotest-1.1.jar', double click it to run the cases.
+3. After that, double click this runnable JAR 'autotest-1.1.jar' or run command 'java -jar autotest-1.1.jar' to run the cases.
+
    You can see the document ‘AutomationTest.doc’ to know more about the automation test tool.
    
    Directory tree: 
