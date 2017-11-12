@@ -5,7 +5,7 @@ Automation Test Tool for RESTful API
 _Version_	:  1.1
 _Date_	:  May 3, 2017
 
-**_Author_** :  Dom Wang
+**_Author_** :  Dom Wang<br/>
 **_Email_**	:  witpool@outlook.com
 
 ---------------------------------------------------------------------------------------------------------------------
