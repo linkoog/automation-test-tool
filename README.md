@@ -3,13 +3,13 @@
 Automation Test Tool for RESTful API
 
 
-Author	:  Yu Dong Wang (Dom Wang)
+Author	:  Dom Wang
 
 Version	:  1.1
 
 Date	:  May 3, 2017
 
-Email	:  wangyudongwyd@126.com
+Email	:  witpool@outlook.com
 
 ---------------------------------------------------------------------------------------------------------------------
 
