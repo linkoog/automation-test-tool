@@ -2,7 +2,7 @@
 
 Automation Test Tool for RESTful API
 
-_Version_	:  1.1
+_Version_	:  1.1<br/>
 _Date_	:  May 3, 2017
 
 **_Author_** :  Dom Wang<br/>
