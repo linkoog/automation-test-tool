@@ -30,4 +30,9 @@ _Date_	:  May 3, 2017
 
    ![image](https://raw.githubusercontent.com/wangyudongdom/Automation-Test-Tool/master/screenshot_4.png)
 
-[Source code（源代码）](https://github.com/wangyudongdom/automation-test-tool/blob/master/AutotestTool-V1.0.zip)
+[Toolkit download     (工具包下载)](https://github.com/wangyudongdom/automation-test-tool/blob/master/autotest-1.1.zip)<br/>
+[Source code download（源代码下载）](https://github.com/wangyudongdom/automation-test-tool/blob/master/AutotestTool-V1.0.zip)<br/>
+
+[Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)<br/>
+
+![Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)
