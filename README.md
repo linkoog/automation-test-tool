@@ -35,5 +35,4 @@ _Date_	:  May 3, 2017
 [Source code download（源代码下载）](https://github.com/wangyudongdom/automation-test-tool/blob/master/AutotestTool-V1.0.zip)<br/>
 
 [Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)<br/>
-
 ![Technical Exchange Group (技术交流QQ群)](https://github.com/wisdomtool/rest-client/blob/master/images/qq-group.png)
